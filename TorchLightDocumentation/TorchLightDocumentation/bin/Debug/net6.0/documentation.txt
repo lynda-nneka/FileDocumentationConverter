@@ -1,0 +1,47 @@
+Class: Torchlight
+	Description: A simple torchlight
+
+Constructor: .ctor
+	Description: This adds the battery to the torchlight
+	Input: IBattery
+
+Method: DisplayBatteryName
+	Description: DisplayBatteryName
+	Input: 
+	Output: 
+
+Method: DisplayBatteryLife
+	Description: DisplayBatteryLife
+	Input: 
+	Output: 
+
+Property: CanTurnOn
+	Description: This indicate that we can turn on the torchlight
+	Output: 
+
+Class: Duracell
+	Description: This is a duracell battery that work with a torchlight
+
+Property: brandName
+	Description: This is the brand name of the battery
+	Output: string
+
+Property: batteryLife
+	Description: This is the life of the battery
+	Output: int
+
+Class: Tiger
+	Description: This is a Tiger battery that works with a torchlight
+
+Property: brandName
+	Description: This is the brand name of the battery
+	Output: string
+
+Property: batteryLife
+	Description: This is the life of the battery
+	Output: int
+
+Class: TorchBrightness
+	Description: This indicates the brightness of the battery
+
+Enum: TorchBrightness	Description: This indicates the brightness of the batteryLowMediumHigh

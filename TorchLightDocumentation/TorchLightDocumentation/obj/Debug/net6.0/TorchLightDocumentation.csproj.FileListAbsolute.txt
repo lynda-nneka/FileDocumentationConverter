@@ -1,0 +1,15 @@
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/bin/Debug/net6.0/TorchLightDocumentation
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/bin/Debug/net6.0/TorchLightDocumentation.deps.json
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/bin/Debug/net6.0/TorchLightDocumentation.runtimeconfig.json
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/bin/Debug/net6.0/TorchLightDocumentation.dll
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/bin/Debug/net6.0/TorchLightDocumentation.pdb
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.csproj.AssemblyReference.cache
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.AssemblyInfoInputs.cache
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.AssemblyInfo.cs
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.dll
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/refint/TorchLightDocumentation.dll
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.pdb
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/TorchLightDocumentation.genruntimeconfig.cache
+/Users/user/Projects/TorchLightDocumentation/TorchLightDocumentation/obj/Debug/net6.0/ref/TorchLightDocumentation.dll
